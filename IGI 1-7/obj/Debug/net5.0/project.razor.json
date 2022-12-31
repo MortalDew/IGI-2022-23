@@ -1,0 +1,165 @@
+{
+  "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/IGI.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "5.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": "IGI",
+  "Documents": [
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Identity/Pages/Account/Logout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Pages/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Admin/Pages/Delete.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Admin/Pages/Edit.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Product/Index.cshtml",
+      "TargetPath": "Views\\Product\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Identity/Pages/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Shared/_ListItemPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ListItemPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Product/_ListPartial.cshtml",
+      "TargetPath": "Views\\Product\\_ListPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Shared/Components/Cart/Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Cart\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Admin/Pages/Details.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Identity/Pages/Account/Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Identity/Pages/Account/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Admin/Pages/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Identity/Pages/_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Shared/_UserPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_UserPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Identity/Pages/Account/Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Admin/Pages/_ViewStart.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Shared/Components/Menu/Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Menu\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Admin/Pages/Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Shared/_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Views/Cart/Index.cshtml",
+      "TargetPath": "Views\\Cart\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/mortaldew/Downloads/IGI-2022-main/IGI/Areas/Admin/Pages/Create.cshtml",
+      "TargetPath": "Areas\\Admin\\Pages\\Create.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
